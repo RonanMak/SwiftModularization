@@ -1,2 +1,5 @@
 # SwiftModularization
-Swift Modularization
+
+- Swift Modularization
+
+- App config module (by using .plist)
