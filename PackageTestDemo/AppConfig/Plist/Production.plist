@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationProd</key>
+	<dict>
+		<key>url</key>
+		<string>prod_url</string>
+		<key>env</key>
+		<string>prod_env</string>
+	</dict>
+	<key>configurationT1</key>
+	<dict>
+		<key>url</key>
+		<string>t1_url</string>
+		<key>env</key>
+		<string>t1_env</string>
+	</dict>
+	<key>configurationT0</key>
+	<dict>
+		<key>env</key>
+		<string>t0_url</string>
+		<key>url</key>
+		<string>t0_env</string>
+	</dict>
+</dict>
+</plist>
